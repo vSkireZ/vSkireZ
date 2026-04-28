@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola, soy Miguel 👋
 
-<!--
-**vSkireZ/vSkireZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Guadalajara, México.
+Construyendo mi camino hacia ser Data Engineer.
 
-Here are some ideas to get you started:
+## Actualmente aprendiendo
+- Python
+- SQL
+- Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- Python
+- SQL
+- C++
+- Git & Github
+
